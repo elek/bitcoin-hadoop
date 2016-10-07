@@ -1,1 +1,1 @@
-include 'common', 'mapreduce-bitcointransaction'
+include 'common', 'mapreduce', 'inputformat', 'spark'
